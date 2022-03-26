@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Login {
 
 	RemoteWebDriver driver;
-//Testing using ngrok
+//Testing using ngrok and webhook
 
 	@Test
 	public void loginToLeafTaps() {
